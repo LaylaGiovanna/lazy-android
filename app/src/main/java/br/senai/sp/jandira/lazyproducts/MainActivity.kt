@@ -42,6 +42,7 @@ class MainActivity : ComponentActivity() {
                     Greeting(ProductRepository.getProductList())
                 }
             }
+
         }
     }
 }
